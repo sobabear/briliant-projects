@@ -1,5 +1,7 @@
 ## GEN AI
-- [Chrome Chat GPT Extension]([chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension))
+- [Chrome Chat GPT Extension](https://github.com/wong2/chatgpt-google-extension)
+- [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
+
 
 
 ## Robot
