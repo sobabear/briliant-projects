@@ -1,3 +1,7 @@
+## Robot
+- [Spot micro with Jeson nano](https://github.com/Road-Balance/SpotMicroJetson)
+
+
 ## ML
 - [Machine Learning for beginners](https://github.com/microsoft/ML-For-Beginners)
 - [Stream Diffusion](https://github.com/cumulo-autumn/StreamDiffusion)
