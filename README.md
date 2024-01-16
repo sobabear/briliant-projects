@@ -1,3 +1,7 @@
+## GEN AI
+- [Chrome Chat GPT Extension]([chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension))
+
+
 ## Robot
 - [Spot micro with Jeson nano](https://github.com/Road-Balance/SpotMicroJetson)
 
