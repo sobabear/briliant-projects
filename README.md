@@ -11,6 +11,9 @@
 - [web ui cpmponent](https://github.com/sobabear/web-ui-component)
 - [Screen shot to code](https://github.com/abi/screenshot-to-code)
 - [Docusaurus](https://github.com/facebook/docusaurus): Documentation Website builder by Meta
+- [Nextjs enterprise boiler plate](https://github.com/sobabear/next-enterprise)
+
+
 ## IoT
 - [Wokwi – Simulate IoT Projects in the Browser](https://wokwi.com/)
 
