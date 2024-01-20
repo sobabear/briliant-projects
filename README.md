@@ -12,6 +12,8 @@
 - [Machine Learning for beginners](https://github.com/microsoft/ML-For-Beginners)
 - [Stream Diffusion](https://github.com/cumulo-autumn/StreamDiffusion)
 - [Core ML Models](https://github.com/john-rocky/CoreML-Models)
+- [OCR PDF](https://github.com/ocrmypdf/OCRmyPDF)
+
 
 ## Web
 - [web ui cpmponent](https://github.com/sobabear/web-ui-component)
