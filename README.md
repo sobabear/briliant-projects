@@ -20,6 +20,8 @@
 - [Screen shot to code](https://github.com/abi/screenshot-to-code)
 - [Docusaurus](https://github.com/facebook/docusaurus): Documentation Website builder by Meta
 - [Nextjs enterprise boiler plate](https://github.com/Blazity/next-enterprise)
+- [Swift Web Assembly](https://book.swiftwasm.org)
+
 
 
 ## IoT
