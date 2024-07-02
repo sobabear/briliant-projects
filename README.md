@@ -13,6 +13,10 @@
 - [Stream Diffusion](https://github.com/cumulo-autumn/StreamDiffusion)
 - [Core ML Models](https://github.com/john-rocky/CoreML-Models)
 - [OCR PDF](https://github.com/ocrmypdf/OCRmyPDF)
+- [Practical Deep learning for coders](https://course.fast.ai/)
+- [9 Engineers broke into ML](https://www.trybackprop.com/blog/2024_06_09_you_dont_need_a_phd)
+
+
 
 
 ## Web
@@ -22,7 +26,7 @@
 - [Nextjs enterprise boiler plate](https://github.com/Blazity/next-enterprise)
 - [Swift Web Assembly](https://book.swiftwasm.org)
 - [Particles](https://github.com/wufe/react-particles-js)
-
+- [Framer - Awesome Animation library](https://www.framer.com/motion/scroll-animations/)
 
 
 
